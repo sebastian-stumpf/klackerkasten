@@ -1,0 +1,260 @@
+[kbplacer_plugin_action.py:79]: Plugin executed with KiCad version: 7.0.11
+[kbplacer_plugin_action.py:80]: Plugin executed with python version: '3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]'
+[kbplacer_dialog.py:512]: Language: en
+[kbplacer_plugin_action.py:96]: GUI state: {"switch_section": {"annotation": "MX{}", "layout_path": "/home/teadrunk/workspace/kicad/klackerkasten/keyboard-layout.json", "x_distance": "19.05", "y_distance": "19.05"}, "switch_diodes_section": {"enable": true, "route_switches_with_diodes": false, "element_info": {"annotation_format": "D{}", "position_option": "Custom", "position": {"relative_position": [-6.8, -4.0], "orientation": -90.0, "side": "BACK"}, "template_path": ""}}, "additional_elements": {"elements_info": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"relative_position": [0.0, 0.0], "orientation": 0.0, "side": "FRONT"}, "template_path": ""}]}, "misc_section": {"route_rows_and_columns": true, "template_path": ""}}
+[key_placer.py:66]: Set key 1U distance: 19050000/19050000
+[key_placer.py:451]: Diode info: ElementInfo(annotation_format='D{}', position_option=<PositionOption.CUSTOM: 'Custom'>, position=ElementPosition(relative_position=Point(x=-6.8, y=-4.0), orientation=-90.0, side=<Side.BACK: True>), template_path='')
+[key_placer.py:493]: User layout: [[{'a': 7}, '', '', '', '', '', {'x': 1}, '', '', '', '', ''], ['', '', '', '', '', {'x': 1}, '', '', '', '', ''], ['', '', '', '', '', {'x': 1}, '', '', '', '', ''], [{'y': 0.25, 'x': 2}, '', '', {'w': 1.5}, '', {'w': 1.5}, '', '', '']]
+[board_modifier.py:64]: Searching for MX1 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX1 footprint position: (34525000, 34525000)
+[board_modifier.py:64]: Searching for MX2 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX2 footprint position: (53575000, 34525000)
+[board_modifier.py:64]: Searching for MX3 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX3 footprint position: (72625000, 34525000)
+[board_modifier.py:64]: Searching for MX4 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX4 footprint position: (91675000, 34525000)
+[board_modifier.py:64]: Searching for MX5 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX5 footprint position: (110725000, 34525000)
+[board_modifier.py:64]: Searching for MX6 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX6 footprint position: (148825000, 34525000)
+[board_modifier.py:64]: Searching for MX7 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX7 footprint position: (167875000, 34525000)
+[board_modifier.py:64]: Searching for MX8 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX8 footprint position: (186925000, 34525000)
+[board_modifier.py:64]: Searching for MX9 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX9 footprint position: (205975000, 34525000)
+[board_modifier.py:64]: Searching for MX10 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX10 footprint position: (225025000, 34525000)
+[board_modifier.py:64]: Searching for MX11 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX11 footprint position: (34525000, 53575000)
+[board_modifier.py:64]: Searching for MX12 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX12 footprint position: (53575000, 53575000)
+[board_modifier.py:64]: Searching for MX13 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX13 footprint position: (72625000, 53575000)
+[board_modifier.py:64]: Searching for MX14 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX14 footprint position: (91675000, 53575000)
+[board_modifier.py:64]: Searching for MX15 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX15 footprint position: (110725000, 53575000)
+[board_modifier.py:64]: Searching for MX16 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX16 footprint position: (148825000, 53575000)
+[board_modifier.py:64]: Searching for MX17 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX17 footprint position: (167875000, 53575000)
+[board_modifier.py:64]: Searching for MX18 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX18 footprint position: (186925000, 53575000)
+[board_modifier.py:64]: Searching for MX19 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX19 footprint position: (205975000, 53575000)
+[board_modifier.py:64]: Searching for MX20 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX20 footprint position: (225025000, 53575000)
+[board_modifier.py:64]: Searching for MX21 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX21 footprint position: (34525000, 72625000)
+[board_modifier.py:64]: Searching for MX22 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX22 footprint position: (53575000, 72625000)
+[board_modifier.py:64]: Searching for MX23 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX23 footprint position: (72625000, 72625000)
+[board_modifier.py:64]: Searching for MX24 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX24 footprint position: (91675000, 72625000)
+[board_modifier.py:64]: Searching for MX25 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX25 footprint position: (110725000, 72625000)
+[board_modifier.py:64]: Searching for MX26 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX26 footprint position: (148825000, 72625000)
+[board_modifier.py:64]: Searching for MX27 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX27 footprint position: (167875000, 72625000)
+[board_modifier.py:64]: Searching for MX28 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX28 footprint position: (186925000, 72625000)
+[board_modifier.py:64]: Searching for MX29 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX29 footprint position: (205975000, 72625000)
+[board_modifier.py:64]: Searching for MX30 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX30 footprint position: (225025000, 72625000)
+[board_modifier.py:64]: Searching for MX31 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX31 footprint position: (72625000, 96437500)
+[board_modifier.py:64]: Searching for MX32 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX32 footprint position: (91675000, 96437500)
+[board_modifier.py:64]: Searching for MX33 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX33 footprint position: (115487500, 96437500)
+[board_modifier.py:64]: Searching for MX34 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX34 footprint position: (144062500, 96437500)
+[board_modifier.py:64]: Searching for MX35 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX35 footprint position: (167875000, 96437500)
+[board_modifier.py:64]: Searching for MX36 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting MX36 footprint position: (186925000, 96437500)
+[board_modifier.py:97]: Getting MX1 footprint position: (34525000, 34525000)
+[board_modifier.py:64]: Searching for D1 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D1 footprint position: (27725000, 30525000)
+[board_modifier.py:64]: Searching for ST1 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX2 footprint position: (53575000, 34525000)
+[board_modifier.py:64]: Searching for D2 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D2 footprint position: (46775000, 30525000)
+[board_modifier.py:64]: Searching for ST2 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX3 footprint position: (72625000, 34525000)
+[board_modifier.py:64]: Searching for D3 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D3 footprint position: (65825000, 30525000)
+[board_modifier.py:64]: Searching for ST3 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX4 footprint position: (91675000, 34525000)
+[board_modifier.py:64]: Searching for D4 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D4 footprint position: (84875000, 30525000)
+[board_modifier.py:64]: Searching for ST4 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX5 footprint position: (110725000, 34525000)
+[board_modifier.py:64]: Searching for D5 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D5 footprint position: (103925000, 30525000)
+[board_modifier.py:64]: Searching for ST5 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX6 footprint position: (148825000, 34525000)
+[board_modifier.py:64]: Searching for D6 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D6 footprint position: (142025000, 30525000)
+[board_modifier.py:64]: Searching for ST6 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX7 footprint position: (167875000, 34525000)
+[board_modifier.py:64]: Searching for D7 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D7 footprint position: (161075000, 30525000)
+[board_modifier.py:64]: Searching for ST7 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX8 footprint position: (186925000, 34525000)
+[board_modifier.py:64]: Searching for D8 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D8 footprint position: (180125000, 30525000)
+[board_modifier.py:64]: Searching for ST8 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX9 footprint position: (205975000, 34525000)
+[board_modifier.py:64]: Searching for D9 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D9 footprint position: (199175000, 30525000)
+[board_modifier.py:64]: Searching for ST9 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX10 footprint position: (225025000, 34525000)
+[board_modifier.py:64]: Searching for D10 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D10 footprint position: (218225000, 30525000)
+[board_modifier.py:64]: Searching for ST10 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX11 footprint position: (34525000, 53575000)
+[board_modifier.py:64]: Searching for D11 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D11 footprint position: (27725000, 49575000)
+[board_modifier.py:64]: Searching for ST11 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX12 footprint position: (53575000, 53575000)
+[board_modifier.py:64]: Searching for D12 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D12 footprint position: (46775000, 49575000)
+[board_modifier.py:64]: Searching for ST12 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX13 footprint position: (72625000, 53575000)
+[board_modifier.py:64]: Searching for D13 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D13 footprint position: (65825000, 49575000)
+[board_modifier.py:64]: Searching for ST13 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX14 footprint position: (91675000, 53575000)
+[board_modifier.py:64]: Searching for D14 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D14 footprint position: (84875000, 49575000)
+[board_modifier.py:64]: Searching for ST14 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX15 footprint position: (110725000, 53575000)
+[board_modifier.py:64]: Searching for D15 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D15 footprint position: (103925000, 49575000)
+[board_modifier.py:64]: Searching for ST15 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX16 footprint position: (148825000, 53575000)
+[board_modifier.py:64]: Searching for D16 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D16 footprint position: (142025000, 49575000)
+[board_modifier.py:64]: Searching for ST16 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX17 footprint position: (167875000, 53575000)
+[board_modifier.py:64]: Searching for D17 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D17 footprint position: (161075000, 49575000)
+[board_modifier.py:64]: Searching for ST17 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX18 footprint position: (186925000, 53575000)
+[board_modifier.py:64]: Searching for D18 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D18 footprint position: (180125000, 49575000)
+[board_modifier.py:64]: Searching for ST18 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX19 footprint position: (205975000, 53575000)
+[board_modifier.py:64]: Searching for D19 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D19 footprint position: (199175000, 49575000)
+[board_modifier.py:64]: Searching for ST19 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX20 footprint position: (225025000, 53575000)
+[board_modifier.py:64]: Searching for D20 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D20 footprint position: (218225000, 49575000)
+[board_modifier.py:64]: Searching for ST20 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX21 footprint position: (34525000, 72625000)
+[board_modifier.py:64]: Searching for D21 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D21 footprint position: (27725000, 68625000)
+[board_modifier.py:64]: Searching for ST21 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX22 footprint position: (53575000, 72625000)
+[board_modifier.py:64]: Searching for D22 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D22 footprint position: (46775000, 68625000)
+[board_modifier.py:64]: Searching for ST22 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX23 footprint position: (72625000, 72625000)
+[board_modifier.py:64]: Searching for D23 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D23 footprint position: (65825000, 68625000)
+[board_modifier.py:64]: Searching for ST23 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX24 footprint position: (91675000, 72625000)
+[board_modifier.py:64]: Searching for D24 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D24 footprint position: (84875000, 68625000)
+[board_modifier.py:64]: Searching for ST24 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX25 footprint position: (110725000, 72625000)
+[board_modifier.py:64]: Searching for D25 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D25 footprint position: (103925000, 68625000)
+[board_modifier.py:64]: Searching for ST25 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX26 footprint position: (148825000, 72625000)
+[board_modifier.py:64]: Searching for D26 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D26 footprint position: (142025000, 68625000)
+[board_modifier.py:64]: Searching for ST26 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX27 footprint position: (167875000, 72625000)
+[board_modifier.py:64]: Searching for D27 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D27 footprint position: (161075000, 68625000)
+[board_modifier.py:64]: Searching for ST27 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX28 footprint position: (186925000, 72625000)
+[board_modifier.py:64]: Searching for D28 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D28 footprint position: (180125000, 68625000)
+[board_modifier.py:64]: Searching for ST28 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX29 footprint position: (205975000, 72625000)
+[board_modifier.py:64]: Searching for D29 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D29 footprint position: (199175000, 68625000)
+[board_modifier.py:64]: Searching for ST29 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX30 footprint position: (225025000, 72625000)
+[board_modifier.py:64]: Searching for D30 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D30 footprint position: (218225000, 68625000)
+[board_modifier.py:64]: Searching for ST30 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX31 footprint position: (72625000, 96437500)
+[board_modifier.py:64]: Searching for D31 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D31 footprint position: (65825000, 92437500)
+[board_modifier.py:64]: Searching for ST31 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX32 footprint position: (91675000, 96437500)
+[board_modifier.py:64]: Searching for D32 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D32 footprint position: (84875000, 92437500)
+[board_modifier.py:64]: Searching for ST32 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX33 footprint position: (115487500, 96437500)
+[board_modifier.py:64]: Searching for D33 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D33 footprint position: (108687500, 92437500)
+[board_modifier.py:64]: Searching for ST33 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX34 footprint position: (144062500, 96437500)
+[board_modifier.py:64]: Searching for D34 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D34 footprint position: (137262500, 92437500)
+[board_modifier.py:64]: Searching for ST34 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX35 footprint position: (167875000, 96437500)
+[board_modifier.py:64]: Searching for D35 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D35 footprint position: (161075000, 92437500)
+[board_modifier.py:64]: Searching for ST35 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting MX36 footprint position: (186925000, 96437500)
+[board_modifier.py:64]: Searching for D36 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:84]: Setting D36 footprint position: (180125000, 92437500)
+[board_modifier.py:64]: Searching for ST36 footprint in /home/teadrunk/workspace/kicad/klackerkasten/pcb/klackerkasten.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[key_placer.py:162]: Removing dangling tracks
